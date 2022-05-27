@@ -5,7 +5,6 @@
 - **Framework**: React *[typescript optional]*
 - **Client Side Rendering**: React Router *[choose between CSR & SSR]*
 <br>
-<br>
 
 ## Back End ##
 - **Language**: NodeJS *[typescript optional]*  **OR** PHP **OR** Laravel
